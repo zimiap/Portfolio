@@ -3,6 +3,6 @@
 
 |#|Наименование проекта |	Описание |	Стек |
 |:---|:---|:---|:---|
-|1.|[Сегментация клиентов банка](https://github.com/zimiap/Portfolio/tree/main/Bank%20segmentation)| Сегментация клиентов на группы для работы по уменьшению оттока | python, pandas,  numpy, matplotlib, seaborn, statsmodels |
+|1.|[Сегментация клиентов банка](https://github.com/zimiap/Portfolio/tree/main/Bank%20segmentation)| Сегментация клиентов на группы для последующей работы по уменьшению оттока | python, pandas,  numpy, matplotlib, seaborn, statsmodels |
 | | | | |
 | | | | |
