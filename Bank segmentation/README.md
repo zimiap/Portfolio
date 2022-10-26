@@ -1,5 +1,5 @@
 # Сегментация клиентов банка
-
+[html](https://github.com/zimiap/Portfolio/blob/main/Bank%20segmentation/banks_segmentation_13.html) [ipynb](https://github.com/zimiap/Portfolio/blob/main/Bank%20segmentation/banks_segmentation_13.ipynb)
 ## Описание проекта
 Задача: сегментировать пользователей, чтобы выявить группы более склонные к оттоку. Описать сегменты и дать рекомендации по удержанию.
 ## Навыки и инструменты
